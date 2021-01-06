@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 22 19:12:54 2020
-
-@author: leosh
+@author: Shipra
 """
 
 def f(ids,m):
